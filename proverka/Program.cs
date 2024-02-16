@@ -2,7 +2,7 @@
 Console.WriteLine("въведете години:");
 int m = int.Parse(Console.ReadLine());
 
-if (m > 21) 
+if (m > 18) 
 {
     Console.WriteLine("Пълнолетен!");
 }
